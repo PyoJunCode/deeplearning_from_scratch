@@ -11,7 +11,7 @@
   - [deploy_simple_server](https://github.com/PyoJunCode/deeplearning_from_scratch#deploy_simple_server)
   - [SKLearn_feature_selection](https://github.com/PyoJunCode/deeplearning_from_scratch)
   - [TFDV_diabetes](https://github.com/PyoJunCode/deeplearning_from_scratch#TFDV_diabetes)
-  - [TFDV_example](https://github.com/PyoJunCode/deeplearning_from_scratch#TFDV_example)
+  - [TFDV_Income](https://github.com/PyoJunCode/deeplearning_from_scratch#TFDV_Income)
   - [TFX_pipeline](https://github.com/PyoJunCode/deeplearning_from_scratch#TFX_pipeline)
 
 - NLP/
